@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tn3wman. I'm a mechanical engineer by education.
+- 👋 Hi, I’m @tn3wman. I'm a mechanical engineer.
 - 👀 I’m interested in computational engineering tools, machine vision, and robotics.
 - 🌱 I’m currently learning robotics.
 
