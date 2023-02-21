@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tn3wman. I'm a mechanical engineer.
+- 👋 Hi, I’m Tyler. I'm a mechanical engineer.
 - 👀 I’m interested in computational engineering tools, machine vision, and robotics.
 
 <!---
